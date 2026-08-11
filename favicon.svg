@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="songbidLabs">
+  <rect width="32" height="32" rx="7" fill="#09090b"/>
+  <rect x="0.5" y="0.5" width="31" height="31" rx="6.5" fill="none" stroke="rgba(125,211,252,0.35)" stroke-width="1"/>
+  <text
+    x="16"
+    y="21"
+    text-anchor="middle"
+    font-family="Consolas, 'JetBrains Mono', monospace"
+    font-size="11"
+    font-weight="600"
+    fill="#39ff14"
+  >&lt;s/&gt;</text>
+</svg>
